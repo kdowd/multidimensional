@@ -4,5 +4,5 @@
 #include <string>
 
 void hello() {
-	std::cout << "header hello" << std::endl;
+	std::cout << "header hello hello" << std::endl;
 }
