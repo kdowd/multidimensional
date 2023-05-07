@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="multidimensional.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyHello.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

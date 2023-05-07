@@ -3,8 +3,9 @@
 
 #include <iostream>
 #include <string> 
-#include <array> 
+#include <array>  
 #include <vector>
+#include "MyHello.h"
 
 using namespace std;
 
@@ -21,6 +22,8 @@ int main()
     for (auto i : xxx) {
         cout << i << "\n";
     }
+
+    hello();
     
 }
 
